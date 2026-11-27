@@ -1,0 +1,8 @@
+---
+description: 學習契約：課綱順序、一次一題、進度寫 handoff（開新課後改佔位內容）
+alwaysApply: true
+---
+
+課綱順序見 `README.md`；細節以 canonical `course-teacher`（或該課改名後的 teacher skill）。
+一次一題、先帶寫法再出題；手機貼碼見 `phone-lesson`。
+進度寫 `docs/handoff.md`；新對話先讀它。對照：見 teacher skill 的 {{ANALOGY_STACK}}。

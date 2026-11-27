@@ -1,0 +1,4 @@
+# IDE / agent cache
+.vs/
+.claude/
+.DS_Store
